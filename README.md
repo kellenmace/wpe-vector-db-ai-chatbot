@@ -1,6 +1,6 @@
-# AI-powered Chatbot WordPress plugin powered by WP Engine Managed Vector Database
+# AI Chatbot WordPress plugin powered by WP Engine's Managed Vector Database
 
-Once installed and configured, this plugin displays an AI-powered chatbot on the frontend of a WordPress site. A user can submit a message and received a streamed response from Google Gemini. The LLM is given data received from the [WP Engine Managed Vector Database](https://wpengine.com/managed-vector-database/) and uses this site data to inform its responses.
+Once installed and configured, this plugin displays an AI-powered chatbot on the frontend of a WordPress site. A user can submit a message and received a streamed response from [Google Gemini](https://ai.google.dev/). The LLM is given data from the [WP Engine Managed Vector Database](https://wpengine.com/managed-vector-database/) and uses this site data to inform its responses.
 
 This results in an AI chatbot that is knowledgeable about the WordPress site's data and can respond to prompts related to it.
 
