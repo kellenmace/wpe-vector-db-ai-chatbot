@@ -12,7 +12,7 @@ This results in an AI chatbot that is knowledgeable about the WordPress site's d
 1. [Configure Smart Search](https://wpengine.com/support/wp-engine-smart-search/#Search_configuration) as desired to optimize it for your use case.
 1. Clone this AI Chatbot plugin and insert it into your WordPress site's `/plugins` folder.
 1. Activate this AI Chatbot plugin.
-1. In the WordPress admin, go to `Settings` > `AI Chatbot`. Paste your Google Generative AI API Key into the field and save your changes.
+1. In the WordPress admin, go to `Settings` > `AI Chatbot`. Paste your Google Generative AI API Key into the field and save your changes. You can get an API key [here](https://aistudio.google.com/app/apikey).
 1. Visit the frontend of your site to interact with the AI chatbot.
 
 ## Local development
